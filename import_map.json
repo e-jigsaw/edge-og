@@ -1,3 +1,7 @@
 {
-  "imports": {}
+  "imports": {
+    "og": "https://deno.land/x/og_edge@0.0.4/mod.ts",
+    "react": "https://esm.sh/react@18.2.0",
+    "server": "https://deno.land/std@0.167.0/http/server.ts"
+  }
 }
